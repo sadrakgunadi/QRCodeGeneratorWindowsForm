@@ -1,0 +1,10 @@
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\bin\Debug\QRCodeGeneratorTest.exe.config
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\bin\Debug\QRCodeGeneratorTest.exe
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\bin\Debug\QRCodeGeneratorTest.pdb
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\bin\Debug\QRCoder.dll
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\bin\Debug\System.Drawing.Common.dll
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\obj\Debug\QRCodeGeneratorTest.Form1.resources
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\obj\Debug\QRCodeGeneratorTest.Properties.Resources.resources
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\obj\Debug\QRCodeGeneratorTest.csproj.GenerateResource.Cache
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\obj\Debug\QRCodeGeneratorTest.exe
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\QRCodeGeneratorTest\obj\Debug\QRCodeGeneratorTest.pdb
